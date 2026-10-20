@@ -1,0 +1,34 @@
+10/20/2026
+
+### Read: 4–5 technical resources
+
+- [ ] Read #1: AI application / agent security
+- [ ] Read #2: Security engineering / detection
+- [ ] Read #3: Application, API, or identity security
+- [ ] Read #4: Threat intelligence / OSINT
+- [ ] Read #5 (optional): Topic selected from emerging job-skill gaps
+- [ ] Write at least **two** short, source-linked technical takeaways
+
+### Recon: 3 job descriptions (private)
+
+- [ ] Investigate job #1: AI Security Engineer / AI Red Team
+- [ ] Investigate job #2: Security Engineer / Application Security
+- [ ] Investigate job #3: Security Solutions Engineer
+- [ ] Record tools, languages, platforms, responsibilities, and required experience
+- [ ] Separate **mandatory requirements** from preferred qualifications
+- [ ] Compare requirements with demonstrated skills and identify the top three gaps
+- [ ] Add aggregated, non-sensitive skill trends to the public monthly summary
+
+### Build: practical work
+
+- [ ] Complete one hands-on lab or meaningful project milestone
+- [ ] Save reproducible setup instructions and sanitized evidence
+- [ ] Document one problem, the troubleshooting process, and the solution
+- [ ] Commit and push reviewed, safe-to-publish changes
+
+### Review: weekly retrospective
+
+- [ ] Identify the most frequently requested skill from the week's job research
+- [ ] Choose next week's technical learning objective
+- [ ] Update project progress and note any blockers
+- [ ] Archive this week's checklist under `progress/`

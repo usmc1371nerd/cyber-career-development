@@ -14,8 +14,6 @@
 
 This public repository is a record of **completed work and safe-to-share learning**. Check tasks off by changing `- [ ]` to `- [x]` in GitHub's Markdown editor and committing the change.
 
-**Privacy boundary:** Detailed employer reconnaissance, job application records, compensation notes, personal skills assessments, private contact details, credentials, and sensitive investigation data belong in the **separate private repository**. Do not commit secrets or personal data here, including in Git history.
-
 ### Current priorities
 
 - [X] Establish a repeatable weekly learning and research routine
@@ -70,7 +68,7 @@ Copy this section into `progress/YYYY-WW.md` each week, then reset the boxes her
 
 ### Days 1–30 | Baseline and foundations
 
-- [ ] Establish the public/private repository boundaries
+- [X] Establish the public/private repository boundaries
 - [ ] Create the `reading/`, `labs/`, `projects/`, `progress/`, and `reports/` folders
 - [ ] Review 12 job descriptions privately (3 per week)
 - [ ] Read 16–20 technical resources
